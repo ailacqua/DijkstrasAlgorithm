@@ -1,2 +1,2 @@
 # DijkstrasAlgorithm
-Implementation of Dijkstra's Algorithm to compute optimal routing between different cities.
+Implementation of Dijkstra's Algorithm with a priority queue to compute optimal routing between different cities.
